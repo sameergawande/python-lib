@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+##comment
 import sys
 def read_input(file):
 	for line in file:
